@@ -1,3 +1,5 @@
+# Takes input word from the user and finds the defintion from www.dictionary.com 
+
 import requests
 from bs4 import BeautifulSoup
 
